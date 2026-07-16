@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "restaurante",
+            "cwd": "Aula2/restaurante",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "restaurante (profile mode)",
+            "cwd": "Aula2/restaurante",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "restaurante (release mode)",
+            "cwd": "Aula2/restaurante",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "noventa_8_food",
+            "cwd": "Aula3/noventa_8_food",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "noventa_8_food (profile mode)",
+            "cwd": "Aula3/noventa_8_food",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "noventa_8_food (release mode)",
+            "cwd": "Aula3/noventa_8_food",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
